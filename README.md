@@ -1,4 +1,4 @@
-# Hi there, I'm Utsav! 👋
+# Hi there, I'm Utsav!👋
 
 ### 🌱 About Me
 - 🎓 BCA Student | Aspiring Full-Stack Developer 🧑‍💻 | Aspiring Successful Entrepreneur 📈
@@ -46,4 +46,5 @@
 - 🚀 Let’s build a helpful student community to help each other
 
 “Curious mind, creative builds, and consistent code.” 😊
+
 Thanks for visiting! 😇
