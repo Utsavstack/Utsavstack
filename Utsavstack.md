@@ -22,7 +22,7 @@
 
 ## 🚀 Tech Stack(Learning...) 
 
- # I'm still beginner😅
+ ### I'm still beginner😅
 
 - HTML, CSS, JavaScript, Python, SQL
 - Git & GitHub  
@@ -42,10 +42,10 @@
 
 ## 📫 Connect with Me
 
-[![Instagram](https://www.instagram.com/_its_me_utsav_/#)  
-[![Telegram](https://t.me/UP7_Stack#)  
-[![LinkedIn](Soon...)  
-[![Portfolio](Soon...)
+[[Instagram](https://www.instagram.com/_its_me_utsav_/#)  
+[[Telegram](https://t.me/UP7_Stack#)  
+[[LinkedIn (Soon...)](Soon...)  
+[[Portfolio] (Soon...)(Soon...)
 
 ---
 
