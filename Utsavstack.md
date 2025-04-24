@@ -42,10 +42,10 @@
 
 ## 📫 Connect with Me
 
-[[Instagram](https://www.instagram.com/_its_me_utsav_/#)  
-[[Telegram](https://t.me/UP7_Stack#)  
-[[LinkedIn (Soon...)](Soon...)  
-[[Portfolio] (Soon...)(Soon...)
+[Instagram](https://www.instagram.com/_its_me_utsav_/#)  
+[Telegram](https://t.me/UP7_Stack#)  
+[LinkedIn (Soon...)](Soon...)  
+[Portfolio (Soon...)](Soon...)
 
 ---
 
