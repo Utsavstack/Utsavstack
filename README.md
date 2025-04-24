@@ -2,7 +2,7 @@
 
 ### 😊About Me
 - 🎓 BCA Student  |  Aspiring Full-Stack Developer 🧑‍💻 | Aspiring Successful Entrepreneur 📈
-- 💻 Currently learning HTML, CSS, JS and exploring React & Node.js, Python, AI/ML
+- 💻 Currently working with HTML, CSS, JS and exploring React & Node.js, Python, AI/ML
 - 🛠 Interested in working with PC hardware, PC Building, New Smartphones, New TECH
 - 📱 Interested in Modded apps and how things work under the hood
 - 🤖 Learning about Generative AI & Deep Learning...
