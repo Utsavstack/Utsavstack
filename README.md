@@ -42,7 +42,7 @@
 
 ## 📫 Connect with Me
 
-[Instagram](https://www.instagram.com/_its_me_utsav_/#)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_its_me_utsav_/#) 
 [Telegram](https://t.me/UP7_Stack#)  
 [LinkedIn (Soon...)](Soon...)  
 [Portfolio (Soon...)](Soon...)
