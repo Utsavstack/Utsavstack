@@ -34,8 +34,8 @@
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_its_me_utsav_/#)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat&logo=Telegram&logoColor=white)](https://t.me/UP7_Stack#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)]
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=Portfolio&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)](Soon...)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=Portfolio&logoColor=white)](Soon...)
 
 ---
 
@@ -45,6 +45,5 @@
 - 📬 Feel free to check out my work, fork it, or drop a star
 - 🚀 Let’s build a helpful student community to help each other
 
-“Curious mind, creative builds, and consistent code.” 😊
-
+“Curious mind, creative builds, and consistent code.”😊
 Thanks for visiting! 😇
